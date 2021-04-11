@@ -1,0 +1,11 @@
+.one{
+    background-color:crimson ;
+    max-width: 400px; 
+    align-items: center;
+    padding:4px;
+    margin-top:100px;
+    
+ };
+ body{
+     background-color: rgba(0,0,0, 0.8);
+ }
